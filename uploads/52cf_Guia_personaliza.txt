@@ -1,0 +1,4 @@
+Guia de ayuda para modificar personaliza
+
+1. Para modificar el menu SideBar, eso es en la application/views/admin/components/page_left.php
+2. Para modificar el breadcum es en el controlador de cada acceso.

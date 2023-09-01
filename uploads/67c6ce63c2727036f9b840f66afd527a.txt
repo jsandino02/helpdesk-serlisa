@@ -1,0 +1,15 @@
+Para enviar mensaje de texto como alert con CMD dentro de la red
+msg /server:MA-FON-012-D049 grisselda.dona ''
+
+Obtener el nombre de la maquina de otro equipo por medio del IP
+nbtstat -a ip_del_equipo
+
+Wil - MA-FON--006-D012 wilmer.brandt
+
+msg /server:MA-FON--006-D012 wilmer.brandt 'Error: 05'
+
+MA-FON-012-N011
+
+msg /server:MA-FON-012-D049 MA-FON-012-N011 Cierre eso
+
+net send MA-FON-012-N011 /domain:claroni /users:julio.sandino Test

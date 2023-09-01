@@ -1,0 +1,7 @@
+19/01/2019 21:09:02.421 - Query getProduct design.php->SELECT *
+FROM (`dg_products`)
+WHERE `sku` =  'px-c-236'
+AND `published` =  1
+ORDER BY `default` DESC
+LIMIT 1
+19/01/2019 21:09:03.829 - precio->
